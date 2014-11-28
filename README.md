@@ -1,0 +1,4 @@
+phpTestGit
+==========
+
+shared project test
